@@ -26,3 +26,7 @@ body:
       description: Optionally, describe what you tried, your setup, or related observations.
   - type: input
     id: version
+    attributes:
+      label: FLProtector version
+      description: Optionally, specify the version you are using (e.g., v1.0.2)
+      placeholder: "v1.0.0"
