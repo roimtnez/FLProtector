@@ -229,11 +229,11 @@ Notes:
 
 The experiments require the **Digit-Five (D5)** dataset, which contains all domain data preprocessed into multiple `.mat` files.
 
-### 🔗 Download
+Dataset Setup
 
-You can obtain the full dataset archive from the following link:
+The experiments require constructing the Digit-Five (D5) benchmark, which combines MNIST, MNIST-M, SVHN, USPS and SYN.
 
-👉 [Download D5 dataset (external source)](https://nubeusc-my.sharepoint.com/:u:/g/personal/roi_martinez_usc_es/EeAZswgYL35DlMDMMLT2ISYBXxn7A_8yOgX3d6VsQbIUJQ?e=JSmzac)
+Due to the licensing terms of some of these datasets (CC BY-SA 4.0, CC BY-NC-SA 4.0), this repository does not redistribute any data files. Instead, we provide a reference folder structure showing where the processed files should be placed.
 
 After downloading, extract the contents so that the folder structure looks as follows:
 
